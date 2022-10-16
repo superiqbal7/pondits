@@ -2,7 +2,7 @@ const users = [
   { firstName: 'John', lastName: 'Doe', age: 26},
   { firstName: 'Rahim', lastName: 'Iqbal', age: 26},
   { firstName: 'Shakib', lastName: 'Al Hasan', age: 33},
-  { firstName: 'Lionel', lastName: 'Messi', age: 34},
+  { firstName: 'Lionel', lastName: 'Messi', age: 33},
   { firstName: 'Christiano', lastName: 'Ronaldo', age: 37}
 ];
 
@@ -11,7 +11,6 @@ const users = [
 // create an array of object that contains 
 acc = {
   26: 2,
-  33: 1,
-  34: 1,
+  33: 2,
   37: 1
 }
